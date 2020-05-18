@@ -1,7 +1,5 @@
 package TypeNode
-import (
-	"fmt"
-)
+import  "fmt"
 //链表定义
 type LNode struct{
 	Data interface{}
